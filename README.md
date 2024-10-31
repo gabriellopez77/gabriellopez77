@@ -2,7 +2,6 @@
 
 #
 [![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellopez77&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/gabriellopez77?tab=repositories)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopez77&layout=compact&theme=omni)](https://github.com/gabriellopez77?tab=repositories)
 
 
