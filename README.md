@@ -20,3 +20,7 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/augy_biel)
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Augy_Biel)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabriellopez77/gabriellopez77/output/snake.svg" alt="Snake animation" />
