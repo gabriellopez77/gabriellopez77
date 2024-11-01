@@ -1,8 +1,10 @@
 ### Pão🥖👌🥴
 
 #
-[![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellopez77&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/gabriellopez77?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopez77&layout=compact&theme=omni)](https://github.com/gabriellopez77?tab=repositories)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopez77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopez77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"/>
+</div>
 
 
 # Technologies
@@ -20,7 +22,3 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/augy_biel)
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Augy_Biel)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabriellopez77/gabriellopez77/output/snake.svg" alt="Snake animation" />
